@@ -5,8 +5,8 @@
 @description   	A simple and elegant Nord Spotify theme.
 @author         HUMANOREAL
 @license        MIT
-==/UserStyle== */
 
+==/UserStyle== */
 @-moz-document domain("spotify.com") {
     :root {
         --nordBG: rgba(59, 66, 82, 100%);
@@ -94,3 +94,7 @@
 		display: none;
 	}
 }
+
+/* Project URL
+https://github.com/HUMANOREAL/spotify-nord/
+*/
