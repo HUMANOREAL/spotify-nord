@@ -1,0 +1,20 @@
+/* ==UserStyle==
+@name           Spotify Nord
+@namespace      github.com/openstyles/stylus
+@version        0.0.1
+@description   	A simple and elegant Nord Spotify theme.
+@author         HUMANOREAL
+@source 	https://github.com/HUMANOREAL/spotify-nord/
+@license        MIT - https://raw.githubusercontent.com/HUMANOREAL/spotify-nord/main/LICENSE
+
+==/UserStyle== */
+@-moz-document domain("spotify.com") {
+	@import ('https://raw.githubusercontent.com/HUMANOREAL/spotify-nord/main/src/base.css')
+}
+
+
+
+/*
+Sim, este código é legível e editável por todos.
+Para customizar o tema adicione variáveis root.
+*/
