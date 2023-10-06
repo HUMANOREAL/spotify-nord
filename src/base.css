@@ -1,27 +1,64 @@
-/* ==UserStyle==
+/*
 @name           Spotify Nord
 @namespace      github.com/openstyles/stylus
 @version        0.0.1
 @description   	A simple and elegant Nord Spotify theme.
 @author         HUMANOREAL
-@license        MIT
+@source 	https://github.com/HUMANOREAL/spotify-nord/
+@license        MIT - https://raw.githubusercontent.com/HUMANOREAL/spotify-nord/main/LICENSE
+*/
 
-==/UserStyle== */
-@-moz-document domain("spotify.com") {
-    :root {
-        --nordBG: rgba(59, 66, 82, 100%);
-        --nordBG2: rgba(46, 52, 64, 100%);
-        --nordGreen: rgba(163, 190, 140, 100%);
-        --nordWhite: rgba(236, 239, 244, 100%);
-        --nordRed: rgba(191, 97, 106, 100%);
-        --nordBlue: rgba(129, 161, 193, 100%);
+/*
+ * Sim, esta base de código é quase ilegível. Por que?
+ * A base de código nunca foi projetada para ser bonita ou simples de entender, ela foi projetada para exigir o mínimo de manutenção possível.
+*/
+
+/* Source Code Pro - Fonte
+* Desenvolvedor:
+@source https://fonts.google.com/?query=Paul+D.+Hunt
+* Sobre:
+@source https://fonts.google.com/specimen/Source+Code+Pro/about
+* Licença
+@source https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+* Veja também:
+@source https://github.com/adobe-fonts/source-code-pro
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+/*
+* Nord Thema:
+@source https://github.com/nordtheme/nord
+* Paleta de cores:
+@source https://github.com/nordtheme/nord/blob/develop/src/nord.css
+*/
+
+/* Variaveis base */
+:root {
+	--nord0: #2E3440;
+	--nord1: #3B4252;
+	--nord2: #434C5E;
+	--nord3: #4C566A;
+	--nord4: #D8DEE9;
+	--nord5: #E5E9F0;
+	--nord6: #ECEFF4;
+	--nord7:;
+	--nord8:;
+	--nord9:;
+	--nord10:;
+	--nord11:;
+	--nord12:;
+	--nord13:;
+	--nord14:;
+	--nord15:;
     }
+/*Variaveis do Spotify */
+
+
+
 	body{
 		font-family: 'Source Code Pro', monospace!important;
-	}
-	
-	/* Importe URL Fonts */
-	@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+    }
 
     /*Top Bar*/
     .Root__main-view, .HsbczDqu9qjcYr7EIdHR {
@@ -92,7 +129,7 @@
     }
 	.Button-sc-qlcn5g-0, .ButtonInner-sc-14ud5tc-0 {
 		display: none;
-	}
+    }
 }
 
 /* Project URL
