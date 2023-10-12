@@ -3,7 +3,7 @@ Um tema simples e elegante baseado no [nord](https://www.nordtheme.com/).
 
 ## Screenshot
 
-![Arc-Dark]()
+![Spotify-nord]()
 
 ## Requisitos
 ### Web
@@ -12,7 +12,7 @@ O tema precisa da extensão [Stylus](https://chrome.google.com/webstore/detail/s
 ### Aplicativo Windows
 O tema precisa do aplicativo [spicetify](https://github.com/khanhas/spicetify-cli).
 
-## Como usar
+## Instalação 
 
 ```txt
 Ainda em desenvolvimento.
