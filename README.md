@@ -1,21 +1,23 @@
 # Spotify Nord
 Um tema simples e elegante baseado no [nord](https://www.nordtheme.com/).
 
-## Screenshots
+## Screenshot
 
 ![Arc-Dark]()
 
 ## Requisitos
+### Web
+O tema precisa da extensão [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
 
-##### Web
+### Aplicativo Windows
+O tema precisa do aplicativo [spicetify](https://github.com/khanhas/spicetify-cli).
 
-##### Aplicativo Windows
-The theme needs [spicetify](https://github.com/khanhas/spicetify-cli) in order to be installed.
+## Como usar
 
-## Installation
-
-Just run these commands on a terminal:
-
+```txt
+Ainda em desenvolvimento.
+```
+#### Git Clone:
 ```bash
 git clone https://github.com/HUMANOREAL/spotify-nord.git
 ```
