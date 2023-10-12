@@ -1,5 +1,5 @@
 # Spotify Nord
-##### Um tema simples e elegante baseado no [nord](https://www.nordtheme.com/).
+Um tema simples e elegante baseado no [nord](https://www.nordtheme.com/).
 
 ## Screenshots
 
