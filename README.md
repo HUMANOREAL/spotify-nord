@@ -17,7 +17,7 @@ O tema precisa do aplicativo [spicetify](https://github.com/khanhas/spicetify-cl
 ```txt
 Ainda em desenvolvimento.
 ```
-#### Git Clone:
+## Clone
 ```bash
 git clone https://github.com/HUMANOREAL/spotify-nord.git
 ```
